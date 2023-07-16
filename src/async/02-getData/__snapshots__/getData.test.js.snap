@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Get Data right value 1`] = `
+[
+  "1",
+  "2",
+]
+`;
